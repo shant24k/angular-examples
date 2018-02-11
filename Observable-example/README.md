@@ -1,2 +1,2 @@
 # angular-examples
-Angular examples
+Observable Usage example
